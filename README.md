@@ -1,3 +1,3 @@
 # Text-Summarization-Using-Neural-Network
-Team Lead- Pranjal Kumar
+Team Lead- Pranjal Kumar,
 Varun Srivastava
